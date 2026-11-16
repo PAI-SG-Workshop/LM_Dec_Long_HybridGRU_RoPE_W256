@@ -5,7 +5,7 @@ HybridGRU_RoPE_W256 - Long family, decoder-only byte-level language model, stand
 ## Status
 
 - Verification level: **Benchmarked**
-- Failure class: none
+- Failure class: Note: length-general state tracking (0.82-0.85 short, 0.96 long at 8192); no recall beyond the window
 
 ## Provenance
 
